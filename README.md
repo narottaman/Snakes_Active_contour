@@ -10,7 +10,7 @@ The **Active Contour Model** is applied to an astronaut's image to segment the h
 
 **Result:**
 
-![Astronaut Single Contour](images/astronaut_single_contour.png)
+![Astronaut Single Contour](images/astronaut_single contour.png)
 
 ---
 
