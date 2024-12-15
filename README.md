@@ -10,7 +10,7 @@ The **Astronaut Single Contour** is applied to an astronaut's image to segment t
 
 **Result:**
 
-![Astronaut Single Contour](images/astronaut_single contour.png)
+![Astronaut Single Contour](images/astronaut_single_contour.png)
 
 ---
 
