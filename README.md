@@ -6,7 +6,7 @@ This project demonstrates multiple methods for **Active Contour Image Segmentati
 
 ## 1. Performing Active Contour on Astronaut Image
 
-The **Active Contour Model** is applied to an astronaut's image to segment the head region.
+The **Astronaut Single Contour** is applied to an astronaut's image to segment the head region.
 
 **Result:**
 
